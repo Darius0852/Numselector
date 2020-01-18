@@ -7,6 +7,8 @@ Bluetooth Communication between iOS and Embedded System using AVR programming of
 
 The aim of the project is to demonstrate awareness in working with specialised hardware used in microcontrollers and to show competence in use of low-level programming in pure C code with embedded systems. This project is a game developed between an Arduino with an AVR ATMega328P chip and a smartphone, using PWM and serial port communication through a bluetooth module to interact.
 
+<a href="https://drive.google.com/file/d/1ss4C5ux09ZxjF1pqV5aVP__LobQvoQ95/view?usp=sharing"><img src="https://drive.google.com/uc?export=view&id=XXX" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+
 ## Components
 
 AT-09 Bluetooth Module
