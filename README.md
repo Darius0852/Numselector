@@ -2,6 +2,7 @@
 Bluetooth Communication between iOS and Embedded System using AVR programming of the Arduino Uno chipset and using swift to develop a game interface on iOS devices
 
 [[https://github.com/Darius0852/Numselector/blob/master/images/screengit.png]]
+![alt text](https://github.com/Darius0852/Numselector/blob/master/images/screengit.png)
 
 
 ## Overview
@@ -9,6 +10,7 @@ Bluetooth Communication between iOS and Embedded System using AVR programming of
 The aim of the project is to demonstrate awareness in working with specialised hardware used in microcontrollers and to show competence in use of low-level programming in pure C code with embedded systems. This project is a game developed between an Arduino with an AVR ATMega328P chip and a smartphone, using PWM and serial port communication through a bluetooth module to interact.
 
 [[https://github.com/Darius0852/Numselector/blob/master/images/s.png]]
+![alt text](https://github.com/Darius0852/Numselector/blob/master/images/s.png)
 
 ## Components
 
